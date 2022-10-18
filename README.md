@@ -1,6 +1,6 @@
 # QUIZ - GTA
 
-<img src="https://as1.ftcdn.net/v2/jpg/02/13/54/94/1000_F_213549493_fj477Whz0czXOZXD0dnhnOKclH1zqCAL.jpg" alt="Quiz time imagem">
+<img src="[https://as1.ftcdn.net/v2/jpg/02/13/54/94/1000_F_213549493_fj477Whz0czXOZXD0dnhnOKclH1zqCAL.jpg](https://img.quizur.com/f/img5f33ff909b2336.26936508.jpg?lastEdited=1597243287)" alt="Quiz time imagem">
 
 > Um quiz rápido sobre o jogo GTA.
 
