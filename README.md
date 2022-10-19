@@ -14,14 +14,14 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de Python
+* Instalar a versão mais recente de Python
 * Foi desenvolvido no Visual Studio Code
 
 
 ## ☕ Usando Quiz - GTA
 
 Para usar Quiz - GTA, siga estas etapas:
-* No meu caso no vscode, instale o aplicativo e execute(Ctrl+F5)
+* No caso do vscode, instale o aplicativo e execute(Ctrl+F5)
 
 ## 📫 Contribuindo para Quiz - GTA
 Para contribuir com Quiz - GTA, siga estas etapas:
